@@ -45,6 +45,6 @@ TC14 - статистика по несуществующему ID
 
 TC16 - price строкой
 
-TC18 - отсутствие statistics
+TC18 - отсутствие statistics   
 Остальные тесты в TESTCASES.md - ручные.
 
